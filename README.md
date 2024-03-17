@@ -1,6 +1,6 @@
 TRUTH AND DARE PRIVACY POLICY
 
-Last Updated: 10/8/2022
+Last Updated: 17/03/2024
 
 By using our Bot, you agree that you have read and agree to this policy.
 
@@ -10,7 +10,7 @@ This Privacy Policy explains what user data we collect and how we use, store, pr
 
 --> We care about privacy. We understand the importance of privacy. We are committed to transparency of our policies.
 --> We don't sell/collect data.
---> We only Server ID for 24 hours. Server ID data stored is what's required for our bots saftey.
+--> We only Server ID and Server Names. Server ID & Server Name data stored is what's required for our bots saftey.
 --> You control your data. You can request a of deletion of the data we store about your server. 
 
 Data Storage Length
@@ -20,7 +20,7 @@ Disclosure Of Data
 We care about your data. Data is not shared with any third parties.
 
 Requesting Data Deletion
-Want to request us to delete your data? No worries, Please contact on bigbadgamerfanmailonly@gmail.com for data deletion. There might be a chance that your data is not stored with us as mentioned we delete our users data!
+Want to request us to delete your data? No worries, Please contact on gammerboy1091@gmail.com for data deletion. [SUBJECT: DATA DELETION (BOT'S NAME)] There might be a chance that your data is not stored with us as mentioned we delete our users data!
 
 Contact Us
 We will be happy to answer anything you want to ask us. Please contact on the below contact!
@@ -31,8 +31,9 @@ When contacting us please make sure to include
 
 Contact Information
 
-Gmail: bigbadgamerfanmailonly@gmail.com
-Discord Support Server:https://discord.gg/Dpe2WjgxAk
+Gmail: gammerboy1091@gmail.com
+Discord Support Server: https://discord.gg/PZNHMuP3kK
+
 
   
 
