@@ -1,6 +1,4 @@
-TRUTH AND DARE PRIVACY POLICY
-
-Last Updated: 17/03/2024
+TRUTH DARE SITUATION PRIVACY POLICY
 
 By using our Bot, you agree that you have read and agree to this policy.
 
@@ -10,7 +8,7 @@ This Privacy Policy explains what user data we collect and how we use, store, pr
 
 --> We care about privacy. We understand the importance of privacy. We are committed to transparency of our policies.
 --> We don't sell/collect data.
---> We only Server ID and Server Names. Server ID & Server Name data stored is what's required for our bots saftey.
+--> We only Server ID, Server Names & Server Invite's . Server ID & Server Name data stored is what's required for our bots saftey.
 --> You control your data. You can request a of deletion of the data we store about your server. 
 
 Data Storage Length
@@ -18,6 +16,12 @@ Data in our bot TRUTH AND DARE is only stored for 24 hours! After a moderator re
 
 Disclosure Of Data
 We care about your data. Data is not shared with any third parties.
+
+Acceptance Of Rules
+When you run any command in our bot for the very first time, U have to accept the RULES, in order to use it. By accepting the rules we are granted with the following data
+* Your Discord Username & ID
+* Server Link & ID where the rules were accepted
+**This Data Gets Auto Deleted in 30 days after useage or if u end up kicking the bot from the server**
 
 Requesting Data Deletion
 Want to request us to delete your data? No worries, Please contact on gammerboy1091@gmail.com for data deletion. [SUBJECT: DATA DELETION (BOT'S NAME)] There might be a chance that your data is not stored with us as mentioned we delete our users data!
@@ -33,6 +37,11 @@ Contact Information
 
 Gmail: gammerboy1091@gmail.com
 Discord Support Server: https://discord.gg/PZNHMuP3kK
+
+
+
+
+Last Updated: 14/06/2024
 
 
   
